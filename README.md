@@ -1,4 +1,4 @@
-# Vegamovies Proxy - 3月17日21.9M/S|免费Shadowrocket节点/V2ray节点/SSR节点/Singbox节点/Clash节点节点推荐，V2rayC梯子购买推荐  更新时间 2026-03-17 10:40:35
+# Vegamovies Proxy - 3月25日18.7M/S|免费Singbox节点/Clash节点/SSR节点/Shadowrocket节点/V2ray节点节点推荐，V2rayC梯子购买推荐  更新时间 2026-03-25 10:05:17
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://vegamoviesproxy.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### 免费Clash节点订阅链接
 
-- https://vegamoviesproxy.github.io/uploads/2026/03/0-20260317.yaml
-- https://vegamoviesproxy.github.io/uploads/2026/03/1-20260317.yaml
-- https://vegamoviesproxy.github.io/uploads/2026/03/2-20260317.yaml
-- https://vegamoviesproxy.github.io/uploads/2026/03/3-20260317.yaml
-- https://vegamoviesproxy.github.io/uploads/2026/03/4-20260317.yaml
+- https://vegamoviesproxy.github.io/uploads/2026/03/0-20260325.yaml
+- https://vegamoviesproxy.github.io/uploads/2026/03/1-20260325.yaml
+- https://vegamoviesproxy.github.io/uploads/2026/03/2-20260325.yaml
+- https://vegamoviesproxy.github.io/uploads/2026/03/3-20260325.yaml
+- https://vegamoviesproxy.github.io/uploads/2026/03/4-20260325.yaml
 
 ### 免费V2ray节点订阅链接
 
-- https://vegamoviesproxy.github.io/uploads/2026/03/0-20260317.txt
-- https://vegamoviesproxy.github.io/uploads/2026/03/1-20260317.txt
-- https://vegamoviesproxy.github.io/uploads/2026/03/2-20260317.txt
-- https://vegamoviesproxy.github.io/uploads/2026/03/3-20260317.txt
-- https://vegamoviesproxy.github.io/uploads/2026/03/4-20260317.txt
+- https://vegamoviesproxy.github.io/uploads/2026/03/0-20260325.txt
+- https://vegamoviesproxy.github.io/uploads/2026/03/1-20260325.txt
+- https://vegamoviesproxy.github.io/uploads/2026/03/2-20260325.txt
+- https://vegamoviesproxy.github.io/uploads/2026/03/3-20260325.txt
+- https://vegamoviesproxy.github.io/uploads/2026/03/4-20260325.txt
 
 ### 免费Sing-box节点订阅链接
 
-- https://vegamoviesproxy.github.io/uploads/2026/03/20260317.json
+- https://vegamoviesproxy.github.io/uploads/2026/03/20260325.json
 
 ## 更多Clash节点订阅 ：
 
